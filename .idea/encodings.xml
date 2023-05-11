@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/constant/ItemType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Item.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/AccountLogic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/AssetLogic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/AssetLogicComparatorCoin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/RankLogic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/mini_game/XucSac.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/myException/AccountAlreadyExists.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/myException/CheckCointException.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
